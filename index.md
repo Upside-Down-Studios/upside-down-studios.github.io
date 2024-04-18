@@ -17,7 +17,8 @@ Make a Unity game and send it to us via github.
 
 Convinced? Go ahead and look at our game catalogue, all of which are 100% free, and then download the app today!
 
-## [Game Catalogue](https://upside-down-studios.github.io/games)
+## Game Catalogue
+### [View](https://upside-down-studios.github.io/games)
 
 ## Download Now
 ### [Windows Build]()
